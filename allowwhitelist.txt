@@ -1,0 +1,11 @@
+PLIST file containing key value pairs for settings in the specified domain
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>adminSettings</key>
+    
+<string>{"userSettings":{"importedLists":[]},"selectedFilterLists":["user-filters","assets.json","public_suffix_list.dat","ublock-badlists","ublock-filters","ublock-badware","ublock-privacy","ublock-abuse","ublock-unbreak","easylist","easyprivacy","urlhaus-1","plowe-0"],"hiddenSettings":{},"whitelist":[
+{"3rdparty":{"extensions":{"cjpalhdlnbpafiamejdnhcphjbkeiagm":{"toAdd":{"trustedSiteDirectives":[# chrome-extension-scheme","https://81hmpnd6.r.us-east-1.awstrack.me","about-scheme","account.jamf.com","admin.microsoft.com","analyst-tools.zerofox.com","api.zerofox.com","cdn.zerofox.com","chrome-scheme","cjpalhdlnbpafiamejdnhcphjbkeiagm.chrome-extension-scheme","cloud.zerofox.com","cs-ma-api.zerofox.com","cs-takedown-api.zerofox.com","ctc-zerofox.com","cve-api.zerofox.com","docs.zerofox.com","dom-parser.zerofox.com","ecl-cdn-prod.zerofox.com","edge-scheme","go.redirectingat.com","go.skimresources.com","hdokiejnpimakedhajhdlcegeplioahd.chrome-extension-scheme",,"intel-api-cdn-prod.zerofox.com","intel-api.zerofox.com","intel-cm-api.zerofox.com","intel-cm.zerofox.com","login.zerofox.com","moz-extension-scheme","n91.meraki.com","opera-scheme","osis-api.zerofox.com","osis.zerofox.com","parser.zerofox.com","profile.zerofox.com","protect.zerofox.com","sso.godaddy.com","support.okta.com","usea1-012.sentinelone.net","vivaldi-scheme","workforcenow.adp.com","www.fedex.com","wyciwyg-scheme","xoforez.jamfcloud.com","zerofail.zerofox.com","awstrack.me"]}}}}}],"dynamicFilteringString":"","urlFilteringString":"","hostnameSwitchesString":"no-strict-blocking: 81hmpnd6.r.us-east-1.awstrack.me true\nno-strict-blocking: awstrack.me true","userFilters":""}</string>
+</dict>
+</plist>
